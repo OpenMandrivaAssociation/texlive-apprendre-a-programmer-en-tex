@@ -1,6 +1,6 @@
 Name:		texlive-apprendre-a-programmer-en-tex
 Version:	57179
-Release:	1
+Release:	2
 Summary:	The book "Apprendre a programmer en TeX"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apprendre-a-programmer-en-tex
