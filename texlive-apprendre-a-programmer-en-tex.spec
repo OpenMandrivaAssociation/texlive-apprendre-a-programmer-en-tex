@@ -3,7 +3,7 @@ Version:	57179
 Release:	2
 Summary:	The book "Apprendre a programmer en TeX"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apprendre-a-programmer-en-tex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/apprendre-a-programmer-en-tex
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apprendre-a-programmer-en-tex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apprendre-a-programmer-en-tex.doc.r%{version}.tar.xz
